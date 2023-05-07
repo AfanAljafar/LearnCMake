@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/afan/learn-c-program/LearnCMake/2_BasicProject/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/Library.dir/my_lib.cc.o -c /home/afan/learn-c-program/LearnCMake/2_BasicProject/my_lib.cc",
+  "file": "/home/afan/learn-c-program/LearnCMake/2_BasicProject/my_lib.cc"
+},
+{
+  "directory": "/home/afan/learn-c-program/LearnCMake/2_BasicProject/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/Excutable.dir/main.cc.o -c /home/afan/learn-c-program/LearnCMake/2_BasicProject/main.cc",
+  "file": "/home/afan/learn-c-program/LearnCMake/2_BasicProject/main.cc"
+}
+]

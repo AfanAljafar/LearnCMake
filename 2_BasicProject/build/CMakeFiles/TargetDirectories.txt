@@ -1,0 +1,4 @@
+/home/afan/learn-c-program/LearnCMake/2_BasicProject/build/CMakeFiles/Library.dir
+/home/afan/learn-c-program/LearnCMake/2_BasicProject/build/CMakeFiles/Excutable.dir
+/home/afan/learn-c-program/LearnCMake/2_BasicProject/build/CMakeFiles/edit_cache.dir
+/home/afan/learn-c-program/LearnCMake/2_BasicProject/build/CMakeFiles/rebuild_cache.dir

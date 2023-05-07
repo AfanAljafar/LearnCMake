@@ -1,0 +1,3 @@
+/home/afan/learn-c-program/LearnCMake/1_HellWorld/build/CMakeFiles/Excutable.dir
+/home/afan/learn-c-program/LearnCMake/1_HellWorld/build/CMakeFiles/edit_cache.dir
+/home/afan/learn-c-program/LearnCMake/1_HellWorld/build/CMakeFiles/rebuild_cache.dir
