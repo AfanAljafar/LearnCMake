@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/afan/learn-c-program/LearnCMake/3_IntermediateProjectStructure/build/src/my_lib",
+  "command": "/usr/bin/clang++  -I/home/afan/learn-c-program/LearnCMake/3_IntermediateProjectStructure/src/my_lib/. -g -o CMakeFiles/Library.dir/my_lib.cc.o -c /home/afan/learn-c-program/LearnCMake/3_IntermediateProjectStructure/src/my_lib/my_lib.cc",
+  "file": "/home/afan/learn-c-program/LearnCMake/3_IntermediateProjectStructure/src/my_lib/my_lib.cc"
+},
+{
+  "directory": "/home/afan/learn-c-program/LearnCMake/3_IntermediateProjectStructure/build/app",
+  "command": "/usr/bin/clang++  -I/home/afan/learn-c-program/LearnCMake/3_IntermediateProjectStructure/src/my_lib/. -g -o CMakeFiles/Executable.dir/main.cc.o -c /home/afan/learn-c-program/LearnCMake/3_IntermediateProjectStructure/app/main.cc",
+  "file": "/home/afan/learn-c-program/LearnCMake/3_IntermediateProjectStructure/app/main.cc"
+}
+]
